@@ -1,6 +1,6 @@
 # grunt-coderoom [![Build Status](https://travis-ci.org/goliney/grunt-coderoom.svg?branch=master)](https://travis-ci.org/goliney/grunt-coderoom)
 
-> Grunt plugin for Coderoom
+> Grunt plugin for [Coderoom](https://github.com/goliney/coderoom)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5` and node `>= 5.0.0`
