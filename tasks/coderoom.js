@@ -8,9 +8,9 @@
 
 'use strict';
 
-module.exports = function (grunt) {
-    var coderoom = require('coderoom');
+const coderoom = require('coderoom');
 
+module.exports = function (grunt) {
     grunt.registerMultiTask('coderoom', 'Grunt plugin for Coderoom', function () {
 
         if (this.files.length !== 1) {
