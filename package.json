@@ -1,7 +1,7 @@
 {
   "name": "grunt-coderoom",
   "description": "Grunt plugin for Coderoom",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/goliney/grunt-coderoom",
   "author": {
     "name": "Sergey Goliney",
@@ -12,6 +12,10 @@
     "type": "git",
     "url": "git://github.com/goliney/grunt-coderoom.git"
   },
+  "keywords": [
+    "gruntplugin",
+    "coderoom"
+  ],
   "bugs": {
     "url": "https://github.com/goliney/grunt-coderoom/issues"
   },
@@ -22,7 +26,7 @@
     }
   ],
   "engines": {
-    "node": ">= 5.0.0"
+    "node": ">= 0.12"
   },
   "main": "tasks/coderoom.js",
   "scripts": {
@@ -34,11 +38,7 @@
     "grunt-contrib-jshint": "^1.0.0",
     "grunt-contrib-nodeunit": "^0.3.3"
   },
-  "keywords": [
-    "gruntplugin",
-    "coderoom"
-  ],
   "dependencies": {
-    "coderoom": "^0.3.2"
+    "coderoom": "latest"
   }
 }

@@ -3,7 +3,7 @@
 > Grunt plugin for [Coderoom](https://github.com/goliney/coderoom)
 
 ## Getting Started
-This plugin requires Grunt `~0.4.5` and node `>= 5.0.0`
+This plugin requires Grunt `~0.4.5` and node `>= 0.12`
 
 You may install this plugin with this command:
 
